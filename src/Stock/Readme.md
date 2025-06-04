@@ -14,23 +14,23 @@ src/
 
 # Key Classes and Their Responsibilities
 
-# financial_news/data_load.py
+   **financial_news/data_load.py**
 
 DataLoad: Handles loading and preprocessing of the financial news dataset.
 
-# financial_news/analysis.py
+  **financial_news/analysis.py**
 
 Analysis: Provides methods for conducting analytical operations on financial news data.
 
-# financial_news/visualization.py
+  **financial_news/visualization.py**
 
 Visualization: Responsible for generating visual representations of the financial news dataset.
 
-# stock/analysis.py
+  **stock/analysis.py**
 
 StockAnalysis: Offers analysis tools for stock price data.
 
-# stock/visualization.py
+  **stock/visualization.py**
 
 StockVisualization: Generates visualizations for stock-related metrics and trends.
 
